@@ -5,6 +5,8 @@ import { OrderDetailedComponent } from './order-detailed/order-detailed.componen
 import { OrdersRoutingModule } from './orders-routing.module';
 import { SharedModule } from '../shared/shared.module';
 
+
+
 @NgModule({
   declarations: [OrdersComponent, OrderDetailedComponent],
   imports: [
